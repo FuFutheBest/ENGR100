@@ -1,2 +1,3 @@
 # ENGR100
-ENGR100 Course Projects Collection
+
+UM-SJTU Joint Institute ENGR100 Course Projects Collection
