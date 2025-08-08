@@ -1,0 +1,34 @@
+################################
+## White list based gitignore ##
+################################
+
+# forbidden
+*
+.*
+
+# allowed
+!.git*
+!make
+!Makefile
+!assets
+!assets/**
+!src
+!src/**
+!public
+!public/**
+!*.md
+!*.json
+!*.yaml
+!.gitea
+!.gitea/**
+!.husky
+!.husky/**
+!commitlint.config.js
+!doc
+!doc/**
+!latex
+!latex/**
+
+# forbidden anywhere
+.DS_Store
+**/.DS_Store

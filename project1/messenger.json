@@ -1,0 +1,27 @@
+{
+    "version": "1.2.0",
+    "template_repo": {
+        "url": "https://github.com/linsyking/messenger-templates",
+        "tag": ""
+    },
+    "scenes": {
+        "Game": {},
+        "Home": {},
+        "Starting": {
+            "raw": false
+        },
+        "Script": {
+            "raw": false
+        },
+        "Level1": {
+            "raw": false
+        },
+        "Level2": {
+            "raw": false
+        },
+        "Ending": {
+            "raw": false
+        }
+    },
+    "sceneprotos": {}
+}

@@ -1,0 +1,43 @@
+{
+    "version": "1.2.1",
+    "template_repo": {
+        "url": "ssh://git@focs.ji.sjtu.edu.cn:2222/SilverFOCS-25su/messenger-templates.git",
+        "tag": ""
+    },
+    "auto_commit": true,
+    "use_cdn": false,
+    "use_min": false,
+    "scenes": {
+        "Level1": {
+            "raw": false
+        },
+        "ProtoTest": {
+            "sceneproto": "GameProto",
+            "raw": false
+        },
+        "Level2": {
+            "sceneproto": "GameProto",
+            "raw": false
+        },
+        "Level3": {
+            "sceneproto": "GameProto",
+            "raw": false
+        },
+        "EndScreen": {
+            "raw": false
+        },
+        "Intro": {
+            "raw": false
+        }
+    },
+    "sceneprotos": {
+        "GameProto": {
+            "raw": false,
+            "levels": [
+                "ProtoTest",
+                "Level2",
+                "Level3"
+            ]
+        }
+    }
+}
