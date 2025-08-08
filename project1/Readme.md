@@ -1,8 +1,3 @@
-![Build badge](https://focs.ji.sjtu.edu.cn/git/SilverFOCS-25su/p1team09/actions/workflows/push.yaml/badge.svg?branch=master)
-![Build badge](https://focs.ji.sjtu.edu.cn/git/SilverFOCS-25su/p1team09/actions/workflows/release.yaml/badge.svg?tag=p1m1)
-![Build badge](https://focs.ji.sjtu.edu.cn/git/SilverFOCS-25su/p1team09/actions/workflows/release.yaml/badge.svg?tag=p1m2)
-![Build badge](https://focs.ji.sjtu.edu.cn/git/SilverFOCS-25su/p1team09/actions/workflows/release.yaml/badge.svg?tag=p1m3)
-
 # Breakout Game - Elm + Messenger Engine
 
 A modern version of the classic Breakout game, implemented using the Elm programming language and powered by the Messenger engine. This project demonstrates how functional programming can create elegant and interactive gameplay.

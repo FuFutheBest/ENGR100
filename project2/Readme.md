@@ -1,17 +1,3 @@
-![Build badge](https://focs.ji.sjtu.edu.cn/git/SilverFOCS-25su/p2team02/actions/workflows/push.yaml/badge.svg?branch=master)
-
-<!-- ![Build badge](https://focs.ji.sjtu.edu.cn/git/SilverFOCS-25su/p2team02/actions/workflows/release.yaml/badge.svg?tag=GS)`GS` -->
-
-<!-- ![Build badge](https://focs.ji.sjtu.edu.cn/git/SilverFOCS-25su/p2team02/actions/workflows/release.yaml/badge.svg?tag=mvp)`mvp` -->
-
-<!-- ![Build badge](https://focs.ji.sjtu.edu.cn/git/SilverFOCS-25su/p2team02/actions/workflows/release.yaml/badge.svg?tag=alpha)`alpha` -->
-
-<!-- ![Build badge](https://focs.ji.sjtu.edu.cn/git/SilverFOCS-25su/p2team02/actions/workflows/release.yaml/badge.svg?tag=beta)`beta`  -->
-
-![Build badge](https://focs.ji.sjtu.edu.cn/git/SilverFOCS-25su/p2team02/actions/workflows/release.yaml/badge.svg?tag=rc)`rc`
-
-<!-- ![Build badge](https://focs.ji.sjtu.edu.cn/git/SilverFOCS-25su/p2team02/actions/workflows/release.yaml/badge.svg?tag=final)`final` -->
-
 ![](/assets/lolipop/ghostbust_hotline.png)
 
 A 2D top-down shooter where you play as an exorcist to exterminate ghosts from a dungeon. But here's the catch: the ghosts are invisible, you can neither see nor hit them... _Unless you reveal them first._
