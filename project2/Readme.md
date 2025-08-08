@@ -1,4 +1,4 @@
-![](/assets/lolipop/ghostbust_hotline.png)
+![](./assets/lolipop/ghostbust_hotline.png)
 
 A 2D top-down shooter where you play as an exorcist to exterminate ghosts from a dungeon. But here's the catch: the ghosts are invisible, you can neither see nor hit them... _Unless you reveal them first._
 
